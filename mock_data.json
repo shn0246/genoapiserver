@@ -2,25 +2,25 @@
   "Count": 4,
   "Data": [
     {
-      "Value": 1156.31,
+      "Value": 1156.58,
       "Id": 1,
       "Name": "Denge Bacası Seviye",
       "Path": "YMN.MGATE!LPE10CL001_XQ01_IO_AINPUT1_ST.PV"
     },
     {
-      "Value": 1156.31,
+      "Value": 1156.58,
       "Id": 2,
       "Name": "U1 Aktif Güç",
       "Path": "YMN.MGATE!LPE10CL001_XQ01_IO_AINPUT1_ST.PV"
     },
     {
-      "Value": 12213527,
+      "Value": 12213627,
       "Id": 3,
       "Name": "U2 Aktif Güç",
       "Path": "YMN.UNIT2!BAA10CE342_XQ01_IO"
     },
     {
-      "Value": 12826074,
+      "Value": 12836074,
       "Id": 4,
       "Name": "U3 Aktif Güç",
       "Path": "YMN.UNIT3!BAA10CE342_XQ01_IO"
