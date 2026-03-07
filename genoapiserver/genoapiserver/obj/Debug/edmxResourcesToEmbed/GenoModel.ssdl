@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="genoapidbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tagdefines">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tagDisplayName" Type="nvarchar" MaxLength="500" />
+    <Property Name="tagName" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="tagvalues">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tagId" Type="int" />
+    <Property Name="tagValue" Type="float" />
+    <Property Name="readTime" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="genoapidbModelStoreContainer">
+    <EntitySet Name="tagdefines" EntityType="Self.tagdefines" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tagvalues" EntityType="Self.tagvalues" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

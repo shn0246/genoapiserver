@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="genoapidbModelStoreContainer" CdmEntityContainer="genoapidbEntities">
+    <EntitySetMapping Name="tagdefines">
+      <EntityTypeMapping TypeName="genoapidbModel.tagdefine">
+        <MappingFragment StoreEntitySet="tagdefines">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="tagDisplayName" ColumnName="tagDisplayName" />
+          <ScalarProperty Name="tagName" ColumnName="tagName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tagvalues">
+      <EntityTypeMapping TypeName="genoapidbModel.tagvalue">
+        <MappingFragment StoreEntitySet="tagvalues">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="tagId" ColumnName="tagId" />
+          <ScalarProperty Name="tagValue1" ColumnName="tagValue" />
+          <ScalarProperty Name="readTime" ColumnName="readTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
