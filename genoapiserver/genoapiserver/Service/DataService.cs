@@ -1,6 +1,9 @@
 ﻿using genoapiserver.Models;
+using Newtonsoft.Json.Linq;
 using OSIsoft.AF.Asset;
+using OSIsoft.AF.Data;
 using OSIsoft.AF.PI;
+using OSIsoft.AF.Time;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -25,6 +28,31 @@ namespace genoapiserver.Service
             }
 
             return myPIServer;
+        }
+
+        public List<string> GetTrendDataAsList(string tagName, string duration = "*-24h")
+        {
+            List<string> resultList = new List<string>();
+
+            try
+            {
+                PIServer myPIServer = connectToServer();
+                PIPoint myPoint = PIPoint.FindPIPoint(myPIServer, tagName);
+
+                AFTimeRange timeRange = new AFTimeRange(duration, "*");
+                AFValues trendData = myPoint.RecordedValues(timeRange, AFBoundaryType.Inside, "", false);
+                foreach (AFValue val in trendData)
+                {
+                    string line = val.Value.ToString();
+                    resultList.Add(line);
+                }
+            }
+            catch (Exception ex)
+            {
+                resultList.Add($"Hata oluştu: {ex.Message}");
+            }
+
+            return resultList;
         }
 
         public List<DataModel> getPoints()
