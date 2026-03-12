@@ -26,7 +26,7 @@ namespace genoapiserver.Controllers
                 Data = dataList
             }, JsonRequestBehavior.AllowGet);
         }
-
+        
         [HttpGet]
         public JsonResult Trend()
         {
