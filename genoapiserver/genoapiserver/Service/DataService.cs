@@ -108,6 +108,35 @@ namespace genoapiserver.Service
             tags.Add(new TagDefineModel { Name = "U5 Aktif Güç", Path = "YMN.UNIT5!BAA10CE311_XQ01_IO" });
             tags.Add(new TagDefineModel { Name = "U5 Reaktif Güç", Path = "YMN.UNIT5!BAA10CE321_XQ01_IO" });
 
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Alt Izafi Yatak X", Path = "YMN.U1_GEN_ALT_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Alt Izafi Yatak Y", Path = "YMN.U1_GEN_ALT_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Alt Mutlak Yatak X", Path = "YMN.U1_GEN_ALT_MUTLAK_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Üst Eksenel Pozisyon (DC Thrust)", Path = "YMN.U1_GEN_UST_EKSENEL_POS" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Üst Izafi Yatak X", Path = "YMN.U1_GEN_UST_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Üst Izafi Yatak Y", Path = "YMN.U1_GEN_UST_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Üst Mutlak Yatak X", Path = "YMN.U1_GEN_UST_MUTLAK_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U1 Gen. Üst Mutlak Yatak Z", Path = "YMN.U1_GEN_UST_MUTLAK_YATAK_Z" });
+            tags.Add(new TagDefineModel { Name = "U1 Türbin Izafi Yatak X", Path = "YMN.U1_TURBIN_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U1 Türbin Izafi Yatak Y", Path = "YMN.U1_TURBIN_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U1 Türbin Mutlak Yatak X", Path = "YMN.U1_TURBIN_MUTLAK_YATAK_X" });
+
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Alt Izafi Yatak X", Path = "YMN.U2_GEN_ALT_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Alt Izafi Yatak Y", Path = "YMN.U2_GEN_ALT_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Alt Mutlak Yatak X", Path = "YMN.U2_GEN_ALT_MUTLAK_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Üst Eksenel Pozisyon (DC Thrust)", Path = "YMN.U2_GEN_UST_EKSENEL_POS" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Üst Izafi Yatak X", Path = "YMN.U2_GEN_UST_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Üst Izafi Yatak Y", Path = "YMN.U2_GEN_UST_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Üst Mutlak Yatak X", Path = "YMN.U2_GEN_UST_MUTLAK_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U2 Gen. Üst Mutlak Yatak Z", Path = "YMN.U2_GEN_UST_MUTLAK_YATAK_Z" });
+            tags.Add(new TagDefineModel { Name = "U2 Türbin Izafi Yatak X", Path = "YMN.U2_TURBIN_IZAFI_YATAK_X" });
+            tags.Add(new TagDefineModel { Name = "U2 Türbin Izafi Yatak Y", Path = "YMN.U2_TURBIN_IZAFI_YATAK_Y" });
+            tags.Add(new TagDefineModel { Name = "U2 Türbin Mutlak Yatak X", Path = "YMN.U2_TURBIN_MUTLAK_YATAK_X" });
+
+
+
+
+
+
             return tags;
         }
 
