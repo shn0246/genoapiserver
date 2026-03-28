@@ -26,14 +26,48 @@ namespace genoapiserver.Controllers
                 Data = dataList
             }, JsonRequestBehavior.AllowGet);
         }
-        
-        [HttpGet]
-        public JsonResult Trend()
-        {
 
-            DataService dataService = new DataService();
-            var result = dataService.GetTrendDataAsList("YMN.MGATE!LPE10CL001_XQ01_IO_AINPUT1_ST.PV");
-            return Json(result, JsonRequestBehavior.AllowGet);
+        [HttpPost]
+        public JsonResult GetTrendData([System.Web.Http.FromBody] TrendRequestModel request)
+        {
+            if (request == null || request.TagPaths == null || !request.TagPaths.Any())
+            {
+                return Json(new { success = false, message = "Geçersiz istek veya Tag listesi boş." });
+            }
+
+            try
+            {
+                DataService dataService = new DataService();
+                // Artık geriye tüm taglerin birleşik verisi dönecek
+                var result = dataService.GetTrendDataMulti(request);
+
+                return Json(new { success = true, data = result });
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message });
+            }
+        }
+
+        [HttpGet]
+        public JsonResult GetTagDefinitions()
+        {
+            try
+            {
+                DataService dataService = new DataService();
+                var result = dataService.GetTagDefinitions();
+
+                return Json(new
+                {
+                    success = true,
+                    data = result,
+                    count = result.Count
+                }, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json(new { success = false, message = ex.Message }, JsonRequestBehavior.AllowGet);
+            }
         }
     }
 }

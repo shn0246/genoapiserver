@@ -7,24 +7,56 @@
       "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\trendresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\trendresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\tagdatagroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\tagdatagroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\trendrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\trendrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\service\\tagregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\service\\tagregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\tagdefinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\tagdefinemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\singlepointrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\singlepointrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\jobs\\mailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\jobs\\mailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\jobs\\jobscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\jobs\\jobscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\constants\\tagconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\constants\\tagconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\listresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\listresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|c:\\users\\ahmet.sahin3\\onedrive - enerjisa \u00FCretim\\desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|solutionrelative:genoapiserver\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20E5AEA-C4E4-4533-8C2D-29531C725C43}|genoapiserver\\genoapiserver.csproj|C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,23 +70,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "TagDataGroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDataGroupModel.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Models\\TagDataGroupModel.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDataGroupModel.cs*",
+              "RelativeToolTip": "genoapiserver\\Models\\TagDataGroupModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:51:23.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrendResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TrendResultModel.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Models\\TrendResultModel.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TrendResultModel.cs*",
+              "RelativeToolTip": "genoapiserver\\Models\\TrendResultModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:11:03.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrendRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TrendRequestModel.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Models\\TrendRequestModel.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TrendRequestModel.cs",
+              "RelativeToolTip": "genoapiserver\\Models\\TrendRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:10:25.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\TagRegisterService.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Service\\TagRegisterService.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\TagRegisterService.cs",
+              "RelativeToolTip": "genoapiserver\\Service\\TagRegisterService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:14:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailJob.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Jobs\\MailJob.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Jobs\\MailJob.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Jobs\\MailJob.cs",
+              "RelativeToolTip": "genoapiserver\\Jobs\\MailJob.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:09:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "genoapiserver\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:07:27.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ListResultModel.cs",
               "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\ListResultModel.cs",
               "RelativeDocumentMoniker": "genoapiserver\\Models\\ListResultModel.cs",
               "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\ListResultModel.cs",
               "RelativeToolTip": "genoapiserver\\Models\\ListResultModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T19:06:00.562Z"
+              "WhenOpened": "2026-03-15T19:06:00.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\DataService.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Service\\DataService.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\DataService.cs*",
+              "RelativeToolTip": "genoapiserver\\Service\\DataService.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:50:59.908Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TagDefineModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDefineModel.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Models\\TagDefineModel.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDefineModel.cs",
+              "RelativeToolTip": "genoapiserver\\Models\\TagDefineModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:50:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Controllers\\DataController.cs",
+              "RelativeToolTip": "genoapiserver\\Controllers\\DataController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:36:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Jobs\\JobScheduler.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Jobs\\JobScheduler.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Jobs\\JobScheduler.cs",
+              "RelativeToolTip": "genoapiserver\\Jobs\\JobScheduler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:10:19.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TagConstants.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Constants\\TagConstants.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Constants\\TagConstants.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Constants\\TagConstants.cs",
+              "RelativeToolTip": "genoapiserver\\Constants\\TagConstants.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:13:29.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "genoapiserver\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:07:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\DataModel.cs",
+              "RelativeDocumentMoniker": "genoapiserver\\Models\\DataModel.cs",
+              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\DataModel.cs",
+              "RelativeToolTip": "genoapiserver\\Models\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:50:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Global.asax.cs",
               "RelativeDocumentMoniker": "genoapiserver\\Global.asax.cs",
@@ -63,67 +265,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T17:54:25.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\DataModel.cs",
-              "RelativeDocumentMoniker": "genoapiserver\\Models\\DataModel.cs",
-              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\DataModel.cs",
-              "RelativeToolTip": "genoapiserver\\Models\\DataModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:50:39.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TagDefineModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDefineModel.cs",
-              "RelativeDocumentMoniker": "genoapiserver\\Models\\TagDefineModel.cs",
-              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\TagDefineModel.cs",
-              "RelativeToolTip": "genoapiserver\\Models\\TagDefineModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:50:33.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Controllers\\DataController.cs",
-              "RelativeDocumentMoniker": "genoapiserver\\Controllers\\DataController.cs",
-              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Controllers\\DataController.cs",
-              "RelativeToolTip": "genoapiserver\\Controllers\\DataController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T17:36:59.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\DataService.cs",
-              "RelativeDocumentMoniker": "genoapiserver\\Service\\DataService.cs",
-              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Service\\DataService.cs",
-              "RelativeToolTip": "genoapiserver\\Service\\DataService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAmwHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T20:50:59.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SinglePointRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\SinglePointRequestModel.cs",
-              "RelativeDocumentMoniker": "genoapiserver\\Models\\SinglePointRequestModel.cs",
-              "ToolTip": "C:\\Users\\ahmet.sahin3\\OneDrive - Enerjisa \u00DCretim\\Desktop\\denemeler\\genoapi\\genoapiserver\\genoapiserver\\Models\\SinglePointRequestModel.cs",
-              "RelativeToolTip": "genoapiserver\\Models\\SinglePointRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T20:46:49.936Z"
             }
           ]
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using genoapiserver.Jobs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
@@ -19,6 +20,8 @@ namespace genoapiserver
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+          //  JobScheduler.Start();
         }
     }
 }

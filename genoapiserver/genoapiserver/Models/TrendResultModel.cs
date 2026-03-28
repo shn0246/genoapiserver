@@ -5,8 +5,9 @@ using System.Web;
 
 namespace genoapiserver.Models
 {
-    public class SinglePointRequestModel
+    public class TrendResultModel
     {
-        public string Path { get; set; }
+        public string Time { get; set; }
+        public double Value { get; set; }
     }
 }
